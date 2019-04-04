@@ -1,0 +1,12 @@
+cd tmp
+mkdir .tasks
+cd .tasks
+mkdir bash
+cd bash
+mkdir one
+cd ..
+cd ..
+ls -hl
+mv /c/.tasks
+mv c:/temp/.tasks/bash/one c:/temp/.tasks/one
+rm -d c:/temp/.tasks/bash
