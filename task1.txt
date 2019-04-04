@@ -8,5 +8,3 @@ cd ..
 cd ..
 ls -hl
 mv /c/.tasks
-mv c:/temp/.tasks/bash/one c:/temp/.tasks/one
-rm -d c:/temp/.tasks/bash
